@@ -4,7 +4,6 @@
 
 - How to reach me **dtnyj1712@gmail.com**
 
-<h3 align="left">Connect with me: +1 323 456 3189</h3>
 <p align="left">
 </p>
 
