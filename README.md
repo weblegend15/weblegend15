@@ -2,7 +2,6 @@
 <h1 align="center">weblegend15</h1>
 <h3 align="center">Senior Full-Stack Engineer</h3>
 
-- How to reach me **dtnyj1712@gmail.com**
 
 <p align="left">
 </p>
